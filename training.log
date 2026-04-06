@@ -1,0 +1,11 @@
+2026-03-25 11:45:21,765 - Train: 4070, Val: 509, Test: 509
+2026-03-25 14:29:56,309 - Epoch 1 | Train Loss 0.6932, Dice 0.0337 | Val Loss 5.0968, Dice 0.5723, IoU 0.2731, Precision 0.2738, Recall 0.9906
+2026-03-25 14:29:57,323 - Best model saved at epoch 1
+2026-03-25 17:07:29,990 - Epoch 2 | Train Loss 0.6673, Dice 0.0137 | Val Loss 0.6571, Dice 0.0136, IoU 0.9732, Precision 0.9820, Recall 0.9909
+2026-03-25 17:07:30,985 - Best model saved at epoch 2
+2026-03-26 10:21:36,667 - Epoch 3 | Train Loss 0.6599, Dice 0.0106 | Val Loss 0.6538, Dice 0.0104, IoU 0.9794, Precision 0.9838, Recall 0.9955
+2026-03-26 10:21:37,547 - Best model saved at epoch 3
+2026-03-26 16:46:33,947 - Epoch 4 | Train Loss 0.6424, Dice 0.0087 | Val Loss 0.7178, Dice 0.0607, IoU 0.8862, Precision 0.8883, Recall 0.9975
+2026-03-27 09:28:28,821 - Epoch 5 | Train Loss 0.6149, Dice 0.0073 | Val Loss 0.6492, Dice 0.0171, IoU 0.9664, Precision 0.9700, Recall 0.9961
+2026-03-27 09:28:29,704 - Best model saved at epoch 5
+2026-03-27 09:34:20,432 - TEST | Loss 0.0185, Dice 0.0171, IoU 0.9664, Precision 0.9698, Recall 0.9964
